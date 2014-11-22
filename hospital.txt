@@ -1,1 +1,20 @@
-demostrate uses of push and pull for a hospital management system by declearing function over the github and putting the destination from sourse tree
+demostrate uses of push and pull for a hospital management system by declearing function over
+the github and putting the destination from sourse tree.
+function for hospital management system
+                login ang logout
+                doctors detail
+                appoitment 
+                doctor's operations
+
+#include <conio.h>
+#include<stdio.h>
+void main()
+{
+printf("hospital management system");
+    //login ang logout
+    //doctor's Detail
+   //appointment
+   //doctor's detail
+}
+getch();
+}
