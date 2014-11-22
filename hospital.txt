@@ -1,0 +1,1 @@
+demostrate uses of push and pull for a hospital management system by declearing function over the github and putting the destination from sourse tree
